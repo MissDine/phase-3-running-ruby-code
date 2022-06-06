@@ -21,5 +21,8 @@ p [1, 2, 3]
 
 #  pp- for "pretty-printing" complex data, such as nested arrays and hashes (the Ruby equivalent of a JavaScript object):
 pp [{id:1,hello:"World"},{id:2,hello:"Ruby"},{id:3,hello:"Enid"},{id:4,hello:"Happy coding"}]
+# Exploring runy wit irb(interactive ruby)-its a tool for running ruby REPL(Read-evaluate-print-loop) in the terminal
+# It provides similar functionality to the browser console that you're familiar with from JavaScript.
+# Using IRB is a great way to quickly test out some code, or check your syntax, without needing to run an entire application.
 
 
