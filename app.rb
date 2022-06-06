@@ -14,3 +14,5 @@ puts " "
 # In the case of arrays, this will produce the following output, with each element of the array printed to a new line in the console:
 # eg
 puts [1, 2, 3]
+# This is where the p method comes in
+p[1, 2, 3]
