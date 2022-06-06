@@ -3,3 +3,7 @@
 puts "Hello world!"
 puts "Hello Dine"
 puts "Hello Enid"
+# print
+print "Hello world!"
+print "Hello Dine"
+print "Hello Enid"
