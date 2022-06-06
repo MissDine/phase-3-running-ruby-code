@@ -14,5 +14,7 @@ puts " "
 # In the case of arrays, this will produce the following output, with each element of the array printed to a new line in the console:
 # eg
 puts [1, 2, 3]
+puts [1, 2, 3].inspect
 # This is where the p method comes in
-p[1, 2, 3]
+p [1, 2, 3]
+ # This is the equivalent of calling:puts [1, 2, 3].inspect
