@@ -4,7 +4,7 @@ puts "Hello world!"
 puts "Hello Dine"
 puts "Hello Enid"
 # print
-print "Hello world!"
+# print "Hello world!"
 print "Hello Dine"
 print "Hello Enid"
 puts " "
@@ -25,4 +25,6 @@ pp [{id:1,hello:"World"},{id:2,hello:"Ruby"},{id:3,hello:"Enid"},{id:4,hello:"Ha
 # It provides similar functionality to the browser console that you're familiar with from JavaScript.
 # Using IRB is a great way to quickly test out some code, or check your syntax, without needing to run an entire application.
 
-
+puts "Hello World!"
+print "Pass this test, please.\n"
+p [1, 2, 3]
